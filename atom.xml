@@ -6,7 +6,7 @@
   <link href="https://csnotme.github.io/atom.xml" rel="self"/>
   
   <link href="https://csnotme.github.io/"/>
-  <updated>2023-02-22T02:31:16.141Z</updated>
+  <updated>2023-02-22T03:46:04.244Z</updated>
   <id>https://csnotme.github.io/</id>
   
   <author>
@@ -21,15 +21,16 @@
     <link href="https://csnotme.github.io/2023/02/22/hexo-github-noteshub%E5%9C%A8%E7%BA%BF%E6%96%87%E6%A1%A3/"/>
     <id>https://csnotme.github.io/2023/02/22/hexo-github-noteshub%E5%9C%A8%E7%BA%BF%E6%96%87%E6%A1%A3/</id>
     <published>2023-02-22T02:27:53.000Z</published>
-    <updated>2023-02-22T02:31:16.141Z</updated>
+    <updated>2023-02-22T03:46:04.244Z</updated>
     
-    <content type="html"><![CDATA[<p>123123asd2</p>]]></content>
+    <content type="html"><![CDATA[<hr><h1 id="1-安装hexo"><a href="#1-安装hexo" class="headerlink" title="1.安装hexo"></a>1.安装hexo</h1><ul><li>git安装<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://git-scm.com/</span><br></pre></td></tr></table></figure></li><li>nodejs安装<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://nodejs.org/en/download/</span><br></pre></td></tr></table></figure></li><li>hexo安装<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://hexo.bootcss.com/docs/index.html</span><br></pre></td></tr></table></figure></li><li>查看依赖是否安装<br><img src="https://github.com/CSnotme/source/raw/main/_posts/2023-02-22-hexo-github-noteshub%E5%9C%A8%E7%BA%BF%E6%96%87%E6%A1%A3/%E6%9F%A5%E7%9C%8B%E4%BE%9D%E8%B5%96%E6%98%AF%E5%90%A6%E5%AE%89%E8%A3%85.png" alt="查看依赖是否安装.png" title="查看依赖是否安装.png"></li></ul><hr><h1 id="2-创建github-pages"><a href="#2-创建github-pages" class="headerlink" title="2.创建github pages"></a>2.创建github pages</h1><ul><li>新建github仓库<br><img src="https://github.com/CSnotme/source/raw/main/_posts/2023-02-22-hexo-github-noteshub%E5%9C%A8%E7%BA%BF%E6%96%87%E6%A1%A3/git%E6%96%B0%E5%BB%BA%E4%BB%93%E5%BA%93.jpg" alt="新建github仓库.jpg"></li><li>设置github开启pages<br><img src="https://github.com/CSnotme/source/raw/main/_posts/2023-02-22-hexo-github-noteshub%E5%9C%A8%E7%BA%BF%E6%96%87%E6%A1%A3/git%E5%BC%80%E5%90%AFpages.jpg" alt="设置github开启pages.jpg"></li><li>配置hexo推送github地址<br><img src="https://github.com/CSnotme/source/raw/main/_posts/2023-02-22-hexo-github-noteshub%E5%9C%A8%E7%BA%BF%E6%96%87%E6%A1%A3/%E9%85%8D%E7%BD%AEhexo%E6%8E%A8%E9%80%81%E7%9A%84git%E5%9C%B0%E5%9D%80.png" alt="配置hexo推送的git地址.png" title="配置hexo推送的git地址.png"></li></ul><hr><h1 id="3-使用NotesHub"><a href="#3-使用NotesHub" class="headerlink" title="3. 使用NotesHub"></a>3. 使用NotesHub</h1><p>官网 <a href="https://www.noteshub.app/">https://www.noteshub.app/</a></p><ul><li>新建一个git仓库，存放hexo中的source文件夹中的源内容</li><li>NotesHub关联git仓库，即可编译source中的markdown文件<br><img src="https://github.com/CSnotme/source/raw/main/_posts/2023-02-22-hexo-github-noteshub%E5%9C%A8%E7%BA%BF%E6%96%87%E6%A1%A3/nodeshub%E5%85%B3%E8%81%94github.jpg" alt="nodeshub关联github.jpg" title="nodeshub关联github.jpg"></li><li>编辑内容保存后会自动推送到source库中，从hexo的source中拉取github最新修改，然后在生产静态文件推送博客</li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;123123asd2&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;hr&gt;
+&lt;h1 id=&quot;1-安装hexo&quot;&gt;&lt;a href=&quot;#1-安装hexo&quot; class=&quot;headerlink&quot; title=&quot;1.安装hexo&quot;&gt;&lt;/a&gt;1.安装hexo&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;git安装&lt;figure class=&quot;highlight plain</summary>
       
     
     
